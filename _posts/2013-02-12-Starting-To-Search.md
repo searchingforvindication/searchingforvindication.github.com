@@ -6,7 +6,7 @@ description: "Was Brother Branham a vindicated prophet to our generation?"
 category : about
 tags : [intro]
 ---
-<img src="/assets/MessageBookAndBible.jpg" class="img-polaroid pull-right" alt="Message book laying over a Bible" />
+
 
 What is the "Message of the hour"? 
 

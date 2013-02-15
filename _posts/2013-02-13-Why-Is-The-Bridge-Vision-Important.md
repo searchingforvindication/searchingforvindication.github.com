@@ -6,7 +6,7 @@ description: "Numerous times when telling his life story, Brother Branham recoun
 category : 
 tags : [bridge]
 ---
-_This post is the first in a multi-part series on the Municipal Bridge Vision._
+_This post is the first in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 Numerous times when telling his life story, Brother Branham recounts the story of the Municipal Bridge vision.  The vision is evidence of the prophetic gift being in operation in his life at a very early age, essentially establishing that he was a prophet from birth.  Brother Branham usually preceded the story of the Bridge Vision with an account of how the Lord spoke to him out of a whirlwind in a tree admonishing him never to smoke, drink, or defile his body in any way.  
 

@@ -6,7 +6,7 @@ description: "We started our research into the bridge vision by first reviewing 
 category : 
 tags : [bridge]
 ---
-_This is the second post in a multi-part series on the Municipal Bridge Vision._
+_This is the second post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 We started our research into the bridge vision by first reviewing all of Brother Branham's accounts of this event.  If you feel we've missed any quotes related to this topic, please let us know by posting a comment below.
 

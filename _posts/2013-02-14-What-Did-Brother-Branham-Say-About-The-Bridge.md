@@ -10,6 +10,17 @@ _This is the second post in a multi-part series on the Municipal Bridge Vision._
 
 We started our research into the bridge vision by first reviewing all of Brother Branham's accounts of this event.  If you feel we've missed any quotes related to this topic, please let us know by posting a comment below.
 
+### Summary of Brother Branham’s Accounts of the Bridge Vision
+Brother Branham saw this vision as a young boy, and the retellings quoted below occurred many years later.  One would naturally expect some slight variation in his retellings as is our normal human nature.  You can clearly see from the quotes below that Brother Branham was very consistent in his accounts of this vision.  We can draw the following conclusions about the vision based on Brother Branham’s account:
+
+ * The vision occurred while playing marbles with one or more of his younger brothers when Brother Branham was a young boy.
+ * Brother Branham counted 16 men falling to their deaths from the bridge.  He indicated they all drowned.
+ * He saw a sign or heard someone say 22 years.
+ * He told his mother about it and she wrote it down.
+ * Twenty-two years later the municipal bridge was erected and 16 men fell to their deaths and drowned during the construction process just exactly as the Lord had shown Brother Branham in this vision.
+
+Here are the quotes:
+
 ##### From the message "Experiences" preached in Phoenix, AZ on March 2nd, 1948
 
 > Now, that's the way the gift is supposed to be working. See? Now, I want you to notice this. It wasn't my sincere prayer that brought this gift. Gifts are not brought by sincere prayers. Gifts are foreordained of God. They're ordained and sent.  Here at the Municipal Bridge. Sister, no doubt you know where the Municipal Bridge is, don't you, cross from Jeffersonville to Louisville?

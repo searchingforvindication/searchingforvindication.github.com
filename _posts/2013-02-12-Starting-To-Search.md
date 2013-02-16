@@ -13,7 +13,7 @@ What is the "Message of the hour"?
 
 What is a "vindicated prophet"?
 
-How do we vindicate a prophet?
+How is a prophet vindicated?
 
 What is our Absolute? 
 

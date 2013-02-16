@@ -12,7 +12,7 @@ _This is the fourth post in a multi-part series on the <a href="/tags.html#bridg
 
 There are many resources available to help us understand this vision and set them into historical context.  The following were used extensively in our research:
 
-*  Brother Branham’s own verbal and transcribed [accounts](/2013/02/14/What-Did-Brother-Branham-Say-About-The-Bridge/) regarding the vision and its fulfillment.  These can be accessed using “The Table” software from Voice Of God Recordings, or directly from the [http://branham.org](http://branham.org) website.  
+*  Brother Branham’s own verbal and transcribed [accounts](/2013/02/16/What-Did-Brother-Branham-Say-About-The-Bridge/) regarding the vision and its fulfillment.  These can be accessed using “The Table” software from Voice Of God Recordings, or directly from the [http://branham.org](http://branham.org) website.  
 *  Account from the [Voice Of Healing magazine](http://www.godsgenerals.com/pdf/1948-1950_april.pdf).
 *  Brother Pearry Green’s recent sermons on his personal testimonies regarding the bridge vision
 * Owen Jorgensen’s “Supernatural” books.

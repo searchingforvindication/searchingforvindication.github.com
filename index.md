@@ -8,7 +8,7 @@ title: Searching For Vindication
 ## Latest Posts
 
 <ul class="posts">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:10 %}
        <li class="post">
            <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date: "%B %d,  %Y" }})</span>  
            <summary>{{ post.description | more: "excerpt" }}</summary>          

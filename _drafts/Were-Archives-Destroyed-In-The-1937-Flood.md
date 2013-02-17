@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Were Archives Destroyed In The 1937 Flood?"
 tagline: ""
@@ -45,13 +45,13 @@ The fact is, there is a complete record of newspapers that we can consult to est
   </ol>
   <div class="carousel-inner">
     <div class="active item">
-        <img src="/assets/Bridge/InLibrary3.png" alt="Indiana State Library" />
+        <img src="/assets/Bridge/InLibrary3.jpg" alt="Indiana State Library" />
 	<div class="carousel-caption">
 	    <h4>Indiana State Library</h4>
 	</div> 
     </div>
     <div class="item">
-        <img src="/assets/Bridge/InLibrary2.png" alt="Microfiche stacks at the Indiana State Library" />
+        <img src="/assets/Bridge/InLibrary2.jpg" alt="Microfiche stacks at the Indiana State Library" />
 	<div class="carousel-caption">
 	    <h4>Microfiche Stacks</h4>
 	    <p>
@@ -61,7 +61,7 @@ The fact is, there is a complete record of newspapers that we can consult to est
 	</div>    
     </div>
     <div class="item">
-        <img src="/assets/Bridge/InLibrary1.png" alt="Jeffersonville Evening News Collection (June 1925-October 1956 shown)" />
+        <img src="/assets/Bridge/InLibrary1.jpg" alt="Jeffersonville Evening News Collection (June 1925-October 1956 shown)" />
 	<div class="carousel-caption">
 	    <h4>Jeffersonville Evening News</h4>
 	    <p>
@@ -75,6 +75,8 @@ The fact is, there is a complete record of newspapers that we can consult to est
   <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div>
 
+#### The Deaths Would Not Have Been Reported
+
 In the same Catch The Vision publication, Voice of God Recordings states that:
 > "Besides that, a few deaths on a local bridge construction project would not have been big news in that era anyway. If it was reported, it probably would have been an article buried inside the local newspaper."
 
@@ -85,7 +87,9 @@ If anything, our research has shown that any deaths during the construction abso
 * Trip To Moon By Rocket Plane Is Now Forecast 
 * Scouts Invited To Celebration At Indiana U 
 * Practical Joker In Jeff Hospital Seriously Hurt 
-* One thing that really surprised us is virtually all obituaries and divorces appeared on the front page.
 
-If these stories made the front page of the paper, surely a tragedy that caused sixteen men to fall to their deaths and drown would have been front page news in this small town.  Further, we don’t have to look back very far in the history of the Ohio River to see how previous bridge construction accidents were reported.  More on that in our next post.
+**One thing that really surprised us is virtually all obituaries and divorces appeared on the front page of the newspaper.**
+
+
+If these stories made the front page of the paper, surely a tragedy that caused sixteen men to fall to their deaths and drown would have been front page news in this small town.  Further, we don’t have to look back very far in the history of the Ohio River Valley to see how previous bridge construction accidents were reported.  More on that in our next post.
 

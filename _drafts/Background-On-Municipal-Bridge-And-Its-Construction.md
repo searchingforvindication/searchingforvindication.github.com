@@ -26,7 +26,7 @@ During this time the newspaper was the lifeline for news, community information,
 
 The construction of the bridge was a popular topic of conversation.  As you will see in our coming posts, there were many articles in the newspaper covering topics from the details of the new construction process being used, to the impact that the new bridge would have on operators of ferry services between Louisville and Jeffersonville.  The opening of the bridge was a huge event and it was advertised heavily.  Merchants in Jeffersonville offered specials and featured their wares in advertisements touting the accomplishments of the construction.  Bridge opening parties were all the rage, and Schimff's even temporarily renamed their ice-cream "bridge cream":
 
-<img src="/assets/Bridge/BridgeCream.png" class="img-polaroid pagination-centered" alt="Schimpff's renamed their ice cream bridge cream." />
+<img src="/assets/Bridge/BridgeCream.jpg" class="img-polaroid pagination-centered" alt="Schimpff's renamed their ice cream bridge cream." />
 
 The bridge was a very big deal and the newspaper was the primary means of communication used to inform and educate the public about its progress and related activities.
 

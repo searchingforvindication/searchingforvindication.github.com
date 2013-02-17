@@ -6,7 +6,7 @@ description: "When it was built, how it was built, and why it was so important."
 category : 
 tags : [bridge]
 ---
-_This is the fifth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+_This is the fourth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 #### Background on Bridge Construction
 

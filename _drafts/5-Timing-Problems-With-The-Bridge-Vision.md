@@ -6,7 +6,9 @@ description: "In this post we examine the timing of the vision and the construct
 category : 
 tags : [bridge]
 ---
-_This is the third post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+_This is the fifth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+
+Now that we've discussed what why the bridge vision was important, what Brother Branham said about it, the methods and sources we used in our research, and gave you some background on the bridge itself and it's construction, let's move on to examining some of the issues with this vision.  The first issue is the timing on the vision and it's fulfillment.  
 
 #### How old was Brother Branham When the Bridge Vision Occurred?
 Establishing a relative window of when this vision happened is important as we measure the time between the vision and its fulfillment.  In some accounts Brother Branham indicated that he was five or six years old  when the vision occurred, however, in other places Brother Branham states he was seven or eight years old .  In his book, Supernatural: The Life of William Branham, Book One: The Boy and His Deprivation, Owen Jorgensen indicates that Brother Branham was seven years old when this vision occurred (Page 31) .  
@@ -33,5 +35,5 @@ If we use a birth date of April 6th, 1909, and take the most consistent timing o
 Brother Branham indicates that he was packing water to his father's stills during prohibition.  Some claim that Brother Branham would not have done this until prohibition went into effect in 1920 when he was eleven years old.  They point to this as another inconsistency in this vision.  While it's true that national prohibition in the United States did not go into effect until 1920, many states and municipalities had prohibition laws in place much earlier.  Indiana had a number of [measures in place](http://www.indianahistory.org/teachers-students/plan-a-field-trip/Prohibition%20Essay) that made it difficult to sell liquor going back as far as 1818.  Many counties were dry.  It's entirely plausible that New Albany was a dry area long before Brother Branham was even born.  We haven't researched this prohibition angle very thoroughly because it appears to not be a factor in the timing of the bridge vision.  
 
 #### Summary
-There are a number of very significant timing issues with the Municipal Bridge Vision that we cannot explain away.  In spite of these inconsistencies, we would be delighted to find evidence of this tragedy occurring during the construction in 1928-1929 or during 1937 – 1938 and accept it as proof of the prophecy being thematically correct.  
+There are a number of very significant timing issues with the Municipal Bridge Vision that we cannot explain away.  In spite of these inconsistencies, we would be delighted to find evidence of this tragedy occurring during the construction in 1928-1929 and accept it as proof of the prophecy being thematically correct.  
 

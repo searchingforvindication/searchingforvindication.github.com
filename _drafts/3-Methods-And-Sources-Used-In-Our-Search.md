@@ -6,7 +6,7 @@ description: "How did we go about researching the bridge vision and what sources
 category : 
 tags : [bridge]
 ---
-_This is the fourth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+_This is the third post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 #### Available Sources Used In Our Research
 

@@ -8,18 +8,17 @@ tags : [bridge]
 ---
 _This is the second post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
-We started our research into the bridge vision by first reviewing all of Brother Branham's accounts of this event.  If you feel we've missed any quotes related to this topic, please let us know by posting a comment below.
-
 ### Summary of Brother Branham’s Accounts of the Bridge Vision
-Brother Branham saw this vision as a young boy, and the retellings quoted below occurred many years later.  One would naturally expect some slight variation in his retellings as is our normal human nature.  You can clearly see from the quotes below that Brother Branham was very consistent in his accounts of this vision.  We can draw the following conclusions about the vision based on Brother Branham’s account:
+We started our research into the bridge vision by first reviewing all of Brother Branham's accounts of this event.  Brother Branham saw this vision as a young boy, and the retellings quoted below occurred many years later.  One would naturally expect some slight variation in his retellings as is our normal human nature.  You can clearly see from the quotes below that Brother Branham was very consistent in his accounts of this vision.  We can draw the following conclusions about the vision based on Brother Branham’s account:
 
  * The vision occurred while playing marbles with one or more of his younger brothers when Brother Branham was a young boy.
+ * Brother Branham saw the Municipal Bridge being built across the Ohio River between Jeffersonville and Louisville.  He clearly identifies it was this specific bridge.
  * Brother Branham counted 16 men falling to their deaths from the bridge.  He indicated they all drowned.
  * He saw a sign or heard someone say 22 years.
  * He told his mother about it and she wrote it down.
  * Twenty-two years later the municipal bridge was erected and 16 men fell to their deaths and drowned during the construction process just exactly as the Lord had shown Brother Branham in this vision.
 
-Here are the quotes:
+ For your own study, we've included all of the accounts below that we've been able to locate from Brother Branham regarding this vision. If you feel we've missed any quotes related to this topic, please let us know by posting a comment at the end of this post.  Here are the quotes:
 
 ##### From the message "Experiences" preached in Phoenix, AZ on March 2nd, 1948
 
@@ -113,4 +112,6 @@ Here are the quotes:
 > A few weeks after that, I was playing marbles with my brother, when an odd feeling came over me.  I sank down by a tree, and, as if in a trance, I saw a large span rise up and cross the river, and watched while a number of people fell off into the river and drowned.  Coming to myself, I ran and told my mother, and again she concluded that I was just a nervous child.  Twenty-two years from the time, the Municipal bridge was erected across the Ohio River, and that same number of workmen were drowned, falling off the bridge.  You see, these things did not come about by prayer or desire, but were foreordained in the divine will of God. 
 
 Note: you can access a copy of this Voice Of Healing Magazine [here](http://www.godsgenerals.com/pdf/1948-1950_april.pdf ). 
+
+Now that we've established what Brother Branham said about the Municipal Bridge Vision, let's discuss our methods and sources used in our search for vindication of this vision.
 

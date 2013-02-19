@@ -48,15 +48,15 @@ You can read the full article online [here](http://chroniclingamerica.loc.gov/lc
 
 After finding this article from Maysville, we decided to see what other papers carried this or similar stories on December 16, 1893.  As it turns out, the Louisville Big Four Bridge Accident was national news carried by major papers around the country.  
 
-The [New York Tribune](http://chroniclingamerica.loc.gov/lccn/sn83030214/1893-12-16/ed-1/seq-1/) packed it:
+The [New York Tribune](http://chroniclingamerica.loc.gov/lccn/sn83030214/1893-12-16/ed-1/seq-1/) had an article about it on the front page:
 
 <img src="/assets/Bridge/BigFour5NY.jpg" alt="New York Tribune article on Big Four Accident" class="img img-polaroid" />
 
-The [St. Paul Daily Globe](http://chroniclingamerica.loc.gov/lccn/sn90059522/1893-12-16/ed-1/seq-1/) packed it:
+The [St. Paul Daily Globe](http://chroniclingamerica.loc.gov/lccn/sn90059522/1893-12-16/ed-1/seq-1/) had an article on the front page:
 
 <img src="/assets/Bridge/BigFour6STP.jpg" alt="St. Paul Daily Globe article on Big Four Accident" class="img img-polaroid" />
 
-The [Los Angeles Herald](http://chroniclingamerica.loc.gov/lccn/sn85042461/1893-12-16/ed-1/seq-1/) packed it:
+The [Los Angeles Herald](http://chroniclingamerica.loc.gov/lccn/sn85042461/1893-12-16/ed-1/seq-1/) also included it on the front page:
 
 <img src="/assets/Bridge/BigFour7LA.jpg" alt="Los Angeles Herald article on Big Four Accident" class="img img-polaroid" />
 

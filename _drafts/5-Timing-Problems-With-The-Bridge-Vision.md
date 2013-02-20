@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Timing Problems With The Bridge Vision"
+title: "Timing Of The Bridge Vision"
 tagline: ""
 description: "In this post we examine the timing of the vision and the construction schedule of the municipal bridge."
 category : 
@@ -8,12 +8,12 @@ tags : [bridge]
 ---
 _This is the fifth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
-Now that we've discussed why the bridge vision was important, what Brother Branham said about it, the methods and sources we used in our research, and gave you some background on the bridge itself and it's construction, let's move on to examining some of the issues with this vision.  The first issue is the timing on the vision and it's fulfillment.  
+Now that we've discussed why the bridge vision was important, what Brother Branham said about it, the methods and sources we used in our research, and gave you some background on the bridge itself and it's construction, let's move on to examining some of the concerns with this vision.  The first of these is the timing of the vision and it's fulfillment.  
 
 #### How old was Brother Branham When the Bridge Vision Occurred?
 Establishing a relative window of when this vision happened is important as we measure the time between the vision and its fulfillment.  In some accounts Brother Branham indicated that he was five or six years old  when the vision occurred, however, in other places Brother Branham states he was seven or eight years old .  In his book, Supernatural: The Life of William Branham, Book One: The Boy and His Deprivation, Owen Jorgensen indicates that Brother Branham was seven years old when this vision occurred (Page 31) .  
 
-Brother Branham had to be old enough to be packing water to his father’s whiskey stills.  He also had to be old enough to play marbles.  By personal observation, most children would have to be about 5 or six to play marbles.  Since Brother Branham was playing with his younger brother Edward who was about a year younger than him , this lends credence to Brother Branham being around 7 when this vision occurred.  
+Brother Branham had to be old enough to be packing water to his father’s whiskey stills.  He also had to be old enough to play marbles.  By personal observation, most children would have to be about five or six to play marbles.  Since Brother Branham was playing with his younger brother Edward who was about a year younger than him, this lends credence to Brother Branham being around seven when this vision occurred.  
 
 In the message, "The Trial" preached in Tampa, FL on April 19, 1964 Brother Branham states that:
 
@@ -21,13 +21,13 @@ In the message, "The Trial" preached in Tampa, FL on April 19, 1964 Brother Bran
 
 Brother Branham says in this quote that he was seven or eight, and this seems to be consistent with the age that a young child might actually go fishing with his friends at a local pond in that era.  Based on a careful reading of all of Brother Branham’s accounts, we know that the vision had to happen when he was between five and eight years old, but most likely occurred when he was around seven years old.
 
-There is some controversy about Brother Branham’s birth date.  Brother Branham stated his birth date was April 8, 1908 on his [first marriage license](/Assets/MarriageLicenses/Hope.pdf)  to Hope Brumbach.  After Hope passed away and Brother Branham later married Meda Broy he used April 6, 1909 on his [second marriage license](/assets/MarriageLicenses/Meda.pdf) .  This is the date that Brother Branham used throughout the rest of his life.  On the low side, with a birthdate of 1908 and him being five when the vision happened, the earliest Brother Branham could have had this vision would have been 1913.  If we use a birthdate of 1909 and Brother Branham having the vision at age eight on the high side the latest date that this could have occurred was 1917.  We can conclude with a high degree of certainty that the vision occurred between 1913 and 1917.  
+There is some controversy about Brother Branham’s birth date.  Brother Branham stated his birth date was April 8, 1908 on his [first marriage license](/Assets/MarriageLicenses/Hope.pdf)  to Hope Brumbach.  After Hope passed away and Brother Branham later married Meda Broy he used April 6, 1909 on his [second marriage license](/assets/MarriageLicenses/Meda.pdf).  This is the date that Brother Branham used throughout the rest of his life.  On the low side, with a birthdate of 1908 and him being five when the vision happened, the earliest Brother Branham could have had this vision would have been 1913.  If we use a birthdate of 1909 and Brother Branham having the vision at age eight on the high side the latest date that this could have occurred was 1917.  We can conclude with a high degree of certainty that the vision occurred between 1913 and 1917.  
 
 #### Twenty Two Years or Seventeen Years?
 In all accounts we’ve been able to locate, Brother Branham indicates that the men died on the bridge twenty-two years after he saw the vision, except for one account.  In the Message, The Trial, on June 21, 1964 Brother Branham indicates that the vision was fulfilled seventeen years after he saw it.  It’s our opinion that this seventeen years was a slip of the tongue given that it is at odds with all of Brother Branham’s other retellings of this story including the written version in [The Voice of Healing](http://www.godsgenerals.com/pdf/1948-1950_april.pdf).
 
 #### When was the Municipal Bridge Built?
-The contract for the construction of the substructure of the bridge was signed on June 1, 1928 and the construction started shortly afterwards.  The construction was complete and the bridge opened to the public on October 31, 1929.  Since the bridge was under construction from 1928 to 1929 and Brother Branham indicated he had the vision twenty-two years before the event happened, he would have had to have had the vision in 1906 or 1907 (1928-22 = 1906 and 1929-22 = 1907).  Of course, both of these dates are before Brother Branham was born, regardless of which birth date you use.  If we use a duration of seventeen years between the vision and it's fulfillment then the vision would have had to occur in 1911 or 1912, when Brother Branham was two or three years old.  We cannot accept this seventeen year period for a couple of reasons:
+Construction of the bridge began in June , 1928 and was complete by October 31, 1929.  Since the bridge was under construction from 1928 to 1929 and Brother Branham indicated he had the vision twenty-two years before the event happened, he would have had to have had the vision in 1906 or 1907 (1928-22 = 1906 and 1929-22 = 1907).  Of course, both of these dates are before Brother Branham was born, regardless of which birth date you use.  If we use a duration of seventeen years between the vision and it's fulfillment then the vision would have had to occur in 1911 or 1912, when Brother Branham was two or three years old.  We cannot accept this seventeen year period for a couple of reasons:
 
 * Brother Branham would have had the vision when he was between two and three years old.  
 * It's unlikely, but not impossible, that Brother Branham would have been able to recall this vision at such a young age.

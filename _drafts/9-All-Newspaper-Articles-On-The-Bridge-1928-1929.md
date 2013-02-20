@@ -25,12 +25,12 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>6/5/1928</td>
-	          <td><a href="/assets/Bridge/19280605.pdf">Bridge Ordinance on Final Reading</a></td>
+	          <td><a href="/assets/Bridge/19280605.pdf">Council Approves Bridge Ordinance on Final Reading</a></td>
 	          <td>Contract between Louisville Bride Commission and the city was ratified by an ordinance giving its final reading and passed unanimously by the Jeffersonville City Council.</td>
 	     </tr>
 	     <tr>
-	          <td>6/8/1928</td>
-	          <td><a href="/assets/Bridge/19280608.pdf">Bridge Money</a></td>
+	          <td>6/9/1928</td>
+	          <td><a href="/assets/Bridge/19280609b.pdf">Bridge Money</a></td>
 	          <td>Bridge Money to be delivered June 20, 1928</td>
 	     </tr>
 	     <tr>
@@ -45,22 +45,22 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>7/20/1928</td>
-	          <td>Bridge Contract Super-Structure</td>
+	          <td><a href="/assets/Bridge/19280720.pdf">Bridge Contract, Super-Structure Let Thursday</a></td>
 	          <td>Contract for the super-structure piers 1 through 8 signed. Amount of $1,915,066.00</td>
 	     </tr>
 	     <tr>
 	          <td>7/28/1928</td>
-	          <td>Building of New Traffic Bridge Proves Interesting to Falls Cities</td>
+	          <td>Building of New Traffic Bridge Proves Interesting to Falls Cities <a href="/assets/Bridge/19280728B.pdf">Part 1</a>|<a href="/assets/Bridge/19280728C.pdf">Part 2</a>|<a href="/assets/Bridge/19280728D.pdf">Part 3</a></td>
 	          <td>Visitors frequent caisson chamber on floor of Ohio River, work to be completed December 1, 1928. Large front page article of construction details with photos.</td>
 	     </tr>
 	     <tr>
 	          <td>8/7/1928</td>
-	          <td>Bridge Approach Plan Includes the Park Site</td>
+	          <td><a href="/assets/Bridge/19280807.pdf">Bridge Approach Plan Includes the Park Site</a></td>
 	          <td>Dinner sponsored by Chamber of Commerce to discuss an increase in the assessed valuation of Jeffersonville real-estate and a sale of property for a park fund.</td>
 	     </tr>
 	     <tr>
 	          <td>8/11/1928</td>
-	          <td>Piers for New Traffic Bridge  Launch Caisson 2</td>
+	          <td>Piers for New Traffic Bridge  Launch Caisson 2 <a href="/assets/Bridge/19280811.pdf">Part 1</a>|<a href="/assets/Bridge/19280811B.pdf">Part 2</a></td>
 	          <td>Interior caisson chamber photos with workmen and bridge officials. The launch of caisson No 2. Work on Pier No 1 to begin.</td>
 	     </tr>
 	     <tr>
@@ -70,17 +70,17 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>9/10/1928</td>
-	          <td>Bridge Heads Visit Building Site of New Traffic Structure Across Ohio River Monday</td>
+	          <td><a href="/asserts/Bridge/19280910.pdf">Bridge Heads Visit Building Site of New Traffic Structure Across Ohio River Monday</a></td>
 	          <td>Ralph Modjeski, Frank Masters, George Vang among officials who inspect site, progress on piers is rapid.</td>
 	     </tr>
 	     <tr>
 	          <td>9/14/1928</td>
-	          <td>Commission Head Relates History of Bridge Project</td>
+	          <td><a href="/assets/Bridge/19280914.pdf">Commission Head Relates History of Bridge Project</a></td>
 	          <td>Believing that there are many persons in Louisville and other Falls cities who would be interested in an authentic history of the municipal highway bridge now being erected across the Ohio River at the foot of Second street, a visit and an interview with the chairman of the bridge commission.</td>
 	     </tr>
 	     <tr>
 	          <td>9/14/1928</td>
-	          <td>Company Begins Wrecking of Buildings Monday</td>
+	          <td><a href="/assets/Bridge/19280914b.pdf">Company Begins Wrecking of Buildings Monday</a></td>
 	          <td>$1000 bid to tear down 15 buildings for new traffic bridge site.</td>
 	     </tr>
 	     <tr>

@@ -50,7 +50,7 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>7/28/1928</td>
-	          <td>Building of New Traffic Bridge Proves Interesting to Falls Cities <a href="/assets/Bridge/19280728B.pdf">Part 1</a>|<a href="/assets/Bridge/19280728C.pdf">Part 2</a>|<a href="/assets/Bridge/19280728D.pdf">Part 3</a></td>
+	          <td>Building of New Traffic Bridge Proves Interesting to Falls Cities <br/><a href="/assets/Bridge/19280728B.pdf">Part 1</a>|<a href="/assets/Bridge/19280728C.pdf">Part 2</a>|<a href="/assets/Bridge/19280728D.pdf">Part 3</a></td>
 	          <td>Visitors frequent caisson chamber on floor of Ohio River, work to be completed December 1, 1928. Large front page article of construction details with photos.</td>
 	     </tr>
 	     <tr>
@@ -60,17 +60,17 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>8/11/1928</td>
-	          <td>Piers for New Traffic Bridge  Launch Caisson 2 <a href="/assets/Bridge/19280811.pdf">Part 1</a>|<a href="/assets/Bridge/19280811B.pdf">Part 2</a></td>
+	          <td>Piers for New Traffic Bridge  Launch Caisson 2 <br/><a href="/assets/Bridge/19280811.pdf">Part 1</a>|<a href="/assets/Bridge/19280811B.pdf">Part 2</a></td>
 	          <td>Interior caisson chamber photos with workmen and bridge officials. The launch of caisson No 2. Work on Pier No 1 to begin.</td>
 	     </tr>
 	     <tr>
-	          <td>9/8/1928</td>
-	          <td>Bridge Commission Asks for Bids</td>
+	          <td>9/6/1928</td>
+	          <td><a href="/assets/Bridge/19280906b.pdf">Bridge Commission Asks for Bids</a></td>
 	          <td>Bridge commission asks for bids for demolition of 13 houses.</td>
 	     </tr>
 	     <tr>
 	          <td>9/10/1928</td>
-	          <td><a href="/asserts/Bridge/19280910.pdf">Bridge Heads Visit Building Site of New Traffic Structure Across Ohio River Monday</a></td>
+	          <td><a href="/assets/Bridge/19280910.pdf">Bridge Heads Visit Building Site of New Traffic Structure Across Ohio River Monday</a></td>
 	          <td>Ralph Modjeski, Frank Masters, George Vang among officials who inspect site, progress on piers is rapid.</td>
 	     </tr>
 	     <tr>
@@ -85,33 +85,33 @@ _This is the ninth post in a multi-part series on the <a href="/tags.html#bridge
 	     </tr>
 	     <tr>
 	          <td>9/22/1928</td>
-	          <td>New Excavating Process Hastens Progress of Work on Bridge Caisson No. 2</td>
+	          <td>New Excavating Process Hastens Progress of Work on Bridge Caisson No. 2 <br/><a href="/assets/Bridge/19280922.pdf">Part 1</a>|<a href="/assets/Bridge/19280922b.pdf">Part 2</a></td>
 	          <td>Smith Orange Peel process hailed as contribution to river construction world Vang receives Madison contract. Detailed article of process.</td>
 	     </tr>
 	     <tr>
 	          <td>10/27/1928</td>
-	          <td>Three Piers Completed on New Ohio Traffic Bridge  To Begin Superstructure November 1</td>
+	          <td>Three Piers Completed on New Ohio Traffic Bridge  To Begin Superstructure November 1 <br/><a href="/assets/Bridge/19281027.pdf">Part 1</a>|<a href="/assets/Bridge/19281027b.pdf">Part 2</a></td>
 	          <td>Caisson No. 2 largest of 8 now sealed; completed structures are washed as final process</td>
 	     </tr>
 	     <tr>
 	          <td>11/3/1928</td>
-	          <td>Steel Work Begins</td>
+	          <td><a href="/assets/Bridge/19281103b.pdf">Steel Work Begins</a></td>
 	          <td>Steel Work Begins on New Traffic Bridge Over Ohio</td>
 	     </tr>
 	     <tr>
 	          <td>12/20/1928</td>
-	          <td>City Issues Big Permit To Bridge Commission Today</td>
+	          <td><a href="/assets/Bridge/19281220b.pdf">City Issues Big Permit To Bridge Commission Today</a></td>
 	          <td>Louisville Bridge Commission was granted a building permit. Toll stations and administration building valued at $150,000.</td>
 	     </tr>
 	     <tr>
-	          <td></td>
-	          <td></td>
-	          <td></td>
+	          <td>3/13/1929</td>
+	          <td><a href="/assets/Bridge/19290313.pdf">Bridge Will Be Rushed Through To Completion</a></td>
+	          <td>A report shows 75% of the steel has been milled and every indication that the bridge will be finished ahead of schedule. A double crew of steel workers will be put on the job for a quicker completion.</td>
 	     </tr>
 	     <tr>
-	          <td></td>
-	          <td></td>
-	          <td></td>
+	          <td>4/30/1929</td>
+	          <td><a href="/assets/Bridge/19290430.pdf">Louisville Mayor Says Span Will Be Completed Nov. 1</a></td>
+	          <td>Vast amount of steel work yet to be done casts doubts on the completion date of Oct. 1, Nov. 1 is a safe bet.</td>
 	     </tr>
 	     <tr>
 	          <td></td>

@@ -13,7 +13,7 @@ Now that we've discussed [why the bridge vision was important](/2013/02/14/Why-I
 Establishing a relative window of when this vision happened is important as we measure the time between the vision and its fulfillment.
 
 #### When was Brother Branham Born?
-There is some controversy about Brother Branham’s birth date.  Brother Branham stated his birth date was April 8, 1908 on his [first marriage license](/Assets/MarriageLicenses/Hope.pdf)  to Hope Brumbach.  After Hope passed away and Brother Branham later married Meda Broy he used April 6, 1909 on his [second marriage license](/assets/MarriageLicenses/Meda.pdf).  This is the date that Brother Branham used throughout the rest of his life.
+There is some controversy about Brother Branham’s birth date.  Brother Branham stated his birth date was April 8, 1908 on his [first marriage license](/assets/MarriageLicenses/Hope.pdf)  to Hope Brumbach.  After Hope passed away and Brother Branham later married Meda Broy he used April 6, 1909 on his [second marriage license](/assets/MarriageLicenses/Meda.pdf).  This is the date that Brother Branham used throughout the rest of his life.
 
 #### How old was Brother Branham When the Bridge Vision Occurred?
 In some accounts Brother Branham indicated that he was five or six years old  when the vision occurred, however, in other places Brother Branham states he was seven or eight years old .  In his book, Supernatural: The Life of William Branham, Book One: The Boy and His Deprivation, Owen Jorgensen indicates that Brother Branham was seven years old when this vision occurred (Page 31).  

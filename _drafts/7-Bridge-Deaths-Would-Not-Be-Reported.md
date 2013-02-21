@@ -60,7 +60,7 @@ The [Los Angeles Herald](http://chroniclingamerica.loc.gov/lccn/sn85042461/1893-
 
 <img src="/assets/Bridge/BigFour7LA.jpg" alt="Los Angeles Herald article on Big Four Accident" class="img img-polaroid" />
 
-There were many more papers that carried this article.  A quick search on the Library of Congress [Chronicling America Collection]((http://chroniclingamerica.loc.gov/) for December 15-16, 1893 yields many other results.
+There were many more papers that carried this article.  A quick search on the Library of Congress [Chronicling America Collection](http://chroniclingamerica.loc.gov/) for December 15-16, 1893 yields many other results.
 
 #### Summary
 

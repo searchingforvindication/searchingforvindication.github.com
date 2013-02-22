@@ -4,6 +4,19 @@
     {
         margin-top: 60px;
     }
+
+    .carousel-inner > .item > img, 
+    .carousel-inner > .item > a > img,
+    div.item img
+    {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .carousel-inner > .item 
+    {
+        background-color: black;
+    }
+
 }
 
 .tag_box > li > a

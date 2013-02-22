@@ -18,7 +18,58 @@ We decided to explore this idea by examining how a previous bridge construction 
 
 #### The Big Four Bridge Construction Accident
 
-On December 15, 1893 during the construction of the Big Four Railroad bridge over the Ohio river a [terrible tragedy](http://en.wikipedia.org/wiki/Big_Four_Bridge#Construction) occurred.  A number of men fell to their deaths and drowned.  The event happened at 10 AM and it was reported the very SAME DAY in the Jeffersonville Evening News:
+On December 15, 1893 during the construction of the Big Four Railroad bridge over the Ohio river a [terrible tragedy](http://en.wikipedia.org/wiki/Big_Four_Bridge#Construction) occurred.  A number of men fell to their deaths and drowned.  
+
+<div id="myCarousel" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="active item">
+        <img src="/assets/Bridge/BigFourCollapse.jpg" alt="Big Four Bridge collapse"  style="text-align: center;" />
+	<div class="carousel-caption">
+	    <h4>Big Four Bridge Collapse</h4>
+	    <p>
+	         <a href="http://digital.library.louisville.edu/cdm/singleitem/collection/howard/id/1844/rec/15">Image Source.</a>
+	     </p>
+	</div> 
+    </div>
+    <div class="item">
+        <img src="/assets/Bridge/BigFourAerial.jpg" alt="Aerial view of Big Four Bridge in 1929" />
+	<div class="carousel-caption">
+	    <h4>Aerial View of Big Four Railroad Bridge, 1929</h4>
+	    <p>
+	           <a href="http://digital.library.louisville.edu/cdm/singleitem/collection/heraldpost/id/110/rec/21">Image Source.</a>
+	    </p>
+	</div>    
+    </div>
+    <div class="item">
+        <img src="/assets/Bridge/BigFour1929.jpg" alt="The Big Four Bridge in 1929" />
+    	<div class="carousel-caption">
+	    <h4>The Big Four Bridge in 1929</h4>
+	    <p>
+	        <a href="http://digital.library.louisville.edu/cdm/singleitem/collection/heraldpost/id/113/rec/3">Image Source.</a>
+	    </p>
+	</div>
+    </div>
+    <div class="item">
+        <img src="/assets/Bridge/MunicipalBridge1928Construction.jpg" alt="Municipal Bridge under construction with Big Four Bridge in the background." />
+        <div class="carousel-caption">
+	    <h4>Municipal Bridge Under Construction, Big Four Bridge in background</h4>
+	    <p>
+	        The Big Four Bridge accident is relevant to the discussion because the tragedy occurred less than a mile down the river from where the Municipal Bridge was built.  <a href="http://digital.library.louisville.edu/cdm/singleitem/collection/potter/id/243/rec/5">Image Source.</a>.
+	    </p>
+	</div>
+    </div>
+  </div>
+  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
+
+The tragedy on the Big Four Bridge happened at 10 AM on December 15, 1893 and it was reported the very SAME DAY in the Jeffersonville Evening News:
 
 <img src="/assets/Bridge/BigFour1.jpg" alt="Big Four Bridge Accident December 15, 1893 Jeffersonville Evening News Front Page" class="img img-polaroid"/>
 

@@ -89,7 +89,7 @@ The very next day this event [was reported](http://chroniclingamerica.loc.gov/lc
 
 <img src="/assets/Bridge/BigFour4Maysville.jpg" alt="Front Page Article regarding the bridge from Maysville, KY" class="img img-polaroid" />
 
-There’s a couple things that are very interesting about this article.  First, the distance between Louisville and Maysville where this article was published is about 110 miles (177 KM).  It’s pretty incredible that less than 24 hours after the accident, this event appeared on the front page of a small paper so far away.  Remember, this was 1893.  This was before [radio](http://en.wikipedia.org/wiki/Radio#19th_century) was demonstrated in 1895.  This was before the telephone.  It might have been close enough to travel by a river steamer in a day.  It's likely that someone had to send all of this information via telegraph. 
+There’s a couple things that are very interesting about this article.  First, the distance between Louisville and Maysville where this article was published is about 110 miles (177 KM).  It’s pretty incredible that less than 24 hours after the accident, this event appeared on the front page of a small paper so far away.  Remember, this was 1893.  This was before [radio](http://en.wikipedia.org/wiki/Radio#19th_century) was demonstrated in 1895.  This was before long distance telephone service.  It might have been close enough to travel by a river steamer in a day.  It's likely that someone had to send all of this information via telegraph. 
 
 <img src="/assets/Bridge/BigFour3.jpg" alt="Map showing the distance from the big four bridge to Maysville, KY" class="img img-polaroid" />
  

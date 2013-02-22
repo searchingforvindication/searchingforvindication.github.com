@@ -6,7 +6,7 @@ description: "List of all of the articles related to the bridge from 1928-1929 s
 category : 
 tags : [bridge]
 ---
-_This is the ninth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+_This is the tenth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 
 <table class="table table-striped table-hover">

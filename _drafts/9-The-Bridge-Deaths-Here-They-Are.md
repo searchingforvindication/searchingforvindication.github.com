@@ -6,7 +6,7 @@ description: "Deaths associated with the construction of the Municipal Bridge."
 category : 
 tags : [bridge]
 ---
-_This is the eighth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
+_This is the ninth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
 Brother Branham indicates that he saw a vision of sixteen men falling from the Municipal Bridge and loosing their lives.  He indicates in several quotes that the men drowned.  It's also clear that this tragedy occurred during the construction of the bridge. 
 

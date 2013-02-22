@@ -20,7 +20,7 @@ We decided to explore this idea by examining how a previous bridge construction 
 
 On December 15, 1893 during the construction of the Big Four Railroad bridge over the Ohio river a [terrible tragedy](http://en.wikipedia.org/wiki/Big_Four_Bridge#Construction) occurred.  A number of men fell to their deaths and drowned.  
 
-<div id="myCarousel" class="carousel slide">
+<div id="myCarousel" class="carousel slide" data-interval="false">
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>

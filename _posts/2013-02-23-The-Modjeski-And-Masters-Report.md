@@ -118,4 +118,12 @@ The engineer's narrative gives a detailed account of the challenges with the con
 
 In our next post, we'll complete our examination of the remainder of this document.
 
-
+<div class="alert alert-error">
+   <p>
+   <strong>Update:</strong><br />
+   It's occurred to us since posting this that some people may be starting to draw conclusions about the Municipal Bridge vision.  It's our intention to be very factual and balanced in our presentation of the information we have discovered. It is not our intent to destroy people's faith or destroy Brother Branham's credibility.  We urge you not to form a final opinion on this matter until all of the documentation we have has been presented and you've looked into the matter for yourself.  There's definitely more to come.  Please be patient with us.  
+   </p>
+   <p>
+   It takes an incredible amount of time, effort, and energy to carefully publish each of these posts.  We're moving as quickly as we can.
+   </p>
+</div>

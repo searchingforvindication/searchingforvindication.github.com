@@ -8,7 +8,7 @@ tags : [bridge]
 ---
 _This is the eighth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
-Early on in our research we learned of the existence of an <a href="http://bit.ly/YKwzON">official engineering report</a> on the building of the Municipal Bridge.  This report was delivered to the Louisville Bridge Commission in 1930 and, as you'll see below, it contains many details about the bridge's construction that are of interest to our search.  The report itself is forty-seven pages long and, in addition, there are a number of large format fold-out engineering drawings included.  
+Early on in our research we learned of the existence of an official engineering report on the building of the Municipal Bridge.  This report was delivered to the Louisville Bridge Commission in 1930 and, as you'll see below, it contains many details about the bridge's construction that are of interest to our search.  The report itself is forty-seven pages long and, in addition, there are a number of large format fold-out engineering drawings included.  
 
 <div class="alert alert-info">
     If you'd like to examine this document in detail for yourself, we've posted a PDF of the <a href="/assets/Bridge/EngineerReport1.pdf">sections of the engineers' report</a> discussed in this post.  If you are using Adobe Acrobat, you can rotate the document to make it easier to read.

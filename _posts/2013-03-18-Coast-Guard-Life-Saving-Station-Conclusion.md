@@ -2,7 +2,7 @@
 layout: post
 title: "Coast Guard Life Saving Station Conclusion"
 tagline: ""
-description: "Conclusions about the official log books from the Coast Guard Life Saving Station at Louisville (Also known as The Louisville or The Mayor Andrew Broaddus."
+description: "Conclusions about the official log books from the Coast Guard Life Saving Station at Louisville (Also known as The Louisville or The Mayor Andrew Broaddus.)"
 category : 
 tags : [bridge]
 ---

@@ -9,11 +9,11 @@ tags : [bridge]
 
 _This is the fourteenth post in a multi-part series on the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>._
 
-Some people have stated that sixteen men fell to their deaths and drowned during the 1937 flood, fulfilling [Brother Branham's Municipal Bridge Vision](2013/02/16/What-Did-Brother-Branham-Say-About-The-Bridge/).  While this viewpoint  certainly does align more closely with Brother Branham's accounts of the [timing of the vision](2013/02/20/Timing-Problems-With-The-Bridge-Vision/), it does not line up with the [main thematic element of the vision](2013/02/16/What-Did-Brother-Branham-Say-About-The-Bridge/); Brother Branham said the men died in an accident during the bridge's construction.  
+Some people have stated that sixteen men fell to their deaths and drowned during the 1937 flood, fulfilling [Brother Branham's Municipal Bridge Vision](2013/02/16/What-Did-Brother-Branham-Say-About-The-Bridge/).  While this viewpoint  certainly does align more closely with Brother Branham's accounts of the [timing of the vision](2013/02/20/Timing-Problems-With-The-Bridge-Vision/), it does not line up with one of the [main thematic element of the vision](2013/02/16/What-Did-Brother-Branham-Say-About-The-Bridge/); Brother Branham said the men died in an accident during the bridge's construction.  
 
 #### Was There An Accident on the Bridge During the Flood?
 
-No.  While the bridge itself stayed above water during the 1937 flood, the northern approach flooded.  There was no accident on the bridge during the flood where sixteen men died, because no one was using it during the flood.  It's a little difficult to see in [this picture](http://uofllibraries.files.wordpress.com/2012/03/lou-e-to-jeff-in.jpg), but if you look closely you can see the approach, along with most of Jeffersonville is under water.  Keep in mind that while this was a significant, record-breaking, and devastating flood, the river was still only above flood stage for 18 days.  It appears the bridge was closed for 15 of those days.
+No.  While the bridge itself stayed above water during the 1937 flood, the northern approach flooded.  There was no accident on the bridge during the flood where sixteen men died, because no one was using it during the flood.  It's a little difficult to see in [this picture](http://uofllibraries.files.wordpress.com/2012/03/lou-e-to-jeff-in.jpg), but if you look closely you can see the approach, along with most of Jeffersonville is under water.  Keep in mind that while this was a significant, record-breaking, and devastating flood, the river was still only above flood stage for 18 days.  It appears the bridge was closed for 10-15 of those days.
 
 #### Was the Bridge Damaged during the Flood?
 
@@ -47,9 +47,9 @@ On [January 6, 1937](/assets/Bridge/19370106.pdf), the Jeffersonville Evening Ne
 
 <img src="/assets/Bridge/19370106_MunicipalSpanHasGoodYear.jpg" alt="Municipal Span Has Good Year" class="img img-polaroid" />
 
-There is no mention of [a 1936 construction event](2013/03/09/Coast-Guard-Life-Saving-Station/).  It seems unlikely that a span of the bridge collapsed during a construction event and sixteen men died, all in the same year that the bridge experienced record revenues.  Note that the bridge revenues were not necessarily steadily increasing year-over-year.  Rather, the second best year before 1936 was 1930.  The revenue increase appears to be the direct result of increased traffic due to **lowering** toll rates on the bridge.  Toll rates would have been unlikely to be lowered if funds were needed to repair a bridge damaged in a major construction accident.  
+There is no mention of [a 1936 construction event](2013/03/09/Coast-Guard-Life-Saving-Station/).  It seems unlikely that a span of the bridge collapsed during a construction event and sixteen men died, all in the same year that the bridge experienced record revenues.  Note that the bridge revenues were not necessarily steadily increasing year-over-year.  Rather, the second best year before 1936 was 1930.  
 
-On [May 4, 1937](/assets/Bridge/19370504.pdf) another article appeared in the Jeffersonville Evening News recording a 9.42 percent increase in revenue for the first four months of 1937.  The article notes that the bridge was closed during the flood, but does not mention any other major closings due to an accident.  
+On [May 4, 1937](/assets/Bridge/19370504.pdf) another article appeared in the Jeffersonville Evening News recording a 9.42 percent increase in revenue for the first four months of 1937.  The revenue increase appears to be the direct result of increased traffic due to **lowering** toll rates on the bridge.  Toll rates would have been unlikely to be lowered if funds were needed to repair a bridge damaged in a major construction accident.  The article notes that the bridge was closed during the flood, but does not mention any other major closings due to an accident.  
 
 <img src="/assets/Bridge/19370504.jpg" alt="Bridge Revenue Shows Increase" class="img img-polaroid" />
 

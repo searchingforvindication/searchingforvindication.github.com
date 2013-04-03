@@ -2,14 +2,29 @@
 layout: post
 title: "Church Escapes In Freak Stunt"
 tagline: ""
-description: "Church Escapes in Freak Stunt during the 1937 flood."
+description: "While searching for evidence of the Municipal Bridge Vision, we ran across an article in the Jeffersonville Evening News from March 8, 1937 about a \"freak stunt\" that occurred in a church during the flood."
 category : 
 tags : [flood, pulpit]
 ---
 
-Brother Branham tells the story of the pulpit in the Branham Tabernacle rising to the ceiling during the 1937 flood.  Visitors to Voice of God Recordings can see this pulpit and will hear about how Brother Branham's Bible was on the pulpit, how the pulpit rose to the ceiling during the flood, and how it came to rest in almost the same spot with the Bible open to Mathew 24:35 when the flood waters receded.  This event is discussed in the [Easter 2009 Catch The Vision](http://branham.org/content/ctv/CTV2009_05/CTV2009_05.pdf#zoom=100) on pages 14-15.
+#### Rising Pulpits During The Flood
+
+While searching for evidence of the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>, we ran across the following article in the Jeffersonville Evening News from March 8, 1937:
+
+<img src="/assets/flood/RisingPulpit.jpg" class="img img-polaroid" alt="Jeffersonville Evening News.  March 8, 1937 article."/>
+
+You can see a full page scan of this article [here](/assets/flood/19370308.pdf).
+
+At first we thought that perhaps the reporter had made a mistake and had reported the name of the wrong church.  But, on further examination, the Tabernacle had a dirt floor at that time.  In addition, a short time later we stumbled across the following article from the Jeffersonville Evening News on March 22, 1937:
+
+<img src="/assets/flood/RisingPulpit2.jpg" class="img img-polaroid" alt="Jeffersonville Evening News.  March 22, 1937 article" />
+
+A scan of the top part of this article can be viewed [here](/assets/flood/19370322.pdf).  The bottom part of the article can be viewed [here](/assets/flood/19370322b.pdf).
+
 
 #### In Brother Branham's Own Words
+
+Brother Branham tells the story of the pulpit in the Branham Tabernacle rising to the ceiling during the 1937 flood.  Visitors to Voice of God Recordings can see this pulpit and will hear about how Brother Branham's Bible was on the pulpit, how the pulpit rose to the ceiling during the flood, and how it came to rest in almost the same spot with the Bible open to Mathew 24:35 when the flood waters receded.  This event is discussed in the [Easter 2009 Catch The Vision](http://branham.org/content/ctv/CTV2009_05/CTV2009_05.pdf#zoom=100) on pages 14-15.
 
 Below are some accounts of Brother Branham discussing this event.
 
@@ -42,21 +57,9 @@ From "Revelation Chapter Four" (61-0108):
 From "If God Be With Us Then Where Is All The Miracles" (61-1231E):  
 >During the time of the flood, I was preaching here one night, left my Bible. The '37 flood came overnight almost, as it swept through the Tabernacle, picked up this same pulpit, raised it right up; there was no other ceiling in here then, and set it right against the ceiling. The Word being under the pulpit, instead of it sinking it floated, took it right up to the ceiling. And I rowed all around over here in a boat. And then when the waters went down, it came down and was laying right here at the same chapter I was reading out of, after the flood. "Heavens and earth will pass away, but My Word shall not." That's right. He's wonderful. Isn't He?
 
-#### Rising Pulpits During The Flood
 
-While searching for evidence of the <a href="/tags.html#bridge-ref">Municipal Bridge Vision</a>, we ran across the following article in the Jeffersonville Evening News from March 8, 1937:
-
-<img src="/assets/flood/RisingPulpit.jpg" class="img img-polaroid" alt="Jeffersonville Evening News.  March 8, 1937 article."/>
-
-You can see a full page scan of this article [here](/assets/flood/19370308.pdf).
-
-At first we thought that perhaps the reporter had made a mistake and had reported the name of the wrong church.  But, on further examination, the Tabernacle had a dirt floor at that time.  In addition, a short time later we stumbled across the following article from the Jeffersonville Evening News on March 22, 1937:
-
-<img src="/assets/flood/RisingPulpit2.jpg" class="img img-polaroid" alt="Jeffersonville Evening News.  March 22, 1937 article" />
-
-
-A scan of the top part of this article can be viewed [here](/assets/flood/19370322.pdf).  The bottom part of the article can be viewed [here](/assets/flood/19370322b.pdf).
 
 #### Summary
 
-These newspaper articles leave us with lots of questions.  This event at the Presbyterian Church is very similar to what Brother Branham describes happening at the Tabernacle.  Is it possible that a similar, but slightly different event happened at the Branham Tabernacle?  Why was the event at the Presbyterian church recorded in the newspaper, but there is no mention of anything happening at Branham Tabernacle?  Why does Brother Branham appear to indicate his Bible was open to Isaiah 27:3 in one account and Mathew 24:35 in others?
+*How The Angel Came To Me, And His Commission (55-0117):*
+> "If I tell the Truth, God's obligated to me, to witness that It is the Truth."

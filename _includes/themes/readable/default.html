@@ -26,6 +26,8 @@
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
   -->
 
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} feed" href="/atom.xml" />
+
     <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
   </head>
@@ -43,11 +45,11 @@
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <div class="nav-collapse collapse">
               <ul class="nav pull-right">
-                <li><a href="timeline.html">Timeline</a></li>
+                <li><a href="/timeline.html">Timeline</a></li>
                 {% assign pages_list = site.pages %}
                 {% assign group = 'navigation' %}
                 {% include JB/pages_list %}
-                <li><a href="atom.xml">RSS</a></li>
+                <li><a href="/atom.xml">RSS</a></li>
               </ul>
           </div>
         </div>

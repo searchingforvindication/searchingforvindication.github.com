@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "What do they act like?"
+title: "And There, Friends, Is Where My Sorrow Started"
 tagline: ""
-description: "When did Brother Branham become affiliated with Pentecostal people?"
+description: "What we learned from Hope's Obituary"
 category : 
 tags : [pentecost, Hope, tabernacle]
 ---
 
-If you are in the message, there's no doubt that you are familiar with Brother Branham's life story.  It really is a riveting testimony and most people can identify, or at least empathize with, some of the hardship that touched Brother Branham's early life.  History shows us that many great lives are forged in the trials of adversity.  No doubt, God uses difficult experiences in our lives to mold and shape our character for his future work, and so, to a degree, Brother Branham's life story is really all of our stories.  However, one portion of Brother Branham's life story always stuck out to us as being particularly tragic: The events leading up to Hope and Sharon Rose's deaths.  
+If you are in the message, there's no doubt that you are familiar with Brother Branham's life story.  It really is a riveting testimony and most people can identify, or at least empathize with, some of the hardship that touched Brother Branham's early life.  However, one portion of Brother Branham's life story always stuck out to us as being particularly tragic: the events leading up to Hope and Sharon Rose's deaths.  
 
-You probably recall the story of Brother Branham travelling through northern Indiana on his way back from Michigan and stumbling across a large Pentecostal gathering.  At this time, Brother Branham was a missionary Baptist and was unfamiliar with the Pentecostal people.  Brother Branham slept in a corn field and attended a service the next morning where he was asked to give an impromptu sermon.  After his sermon, Brother Branham received many invitations to come hold revivals at a number of churches.  When he returned home, Brother Branham was rebuffed by his mother-in-law and he ended up not going out amongst the Pentecostal people.  As a result, tragedy struck during the 1937 flood, and Hope and Sharon Rose became gravely ill.  Brother Branham almost lost his life when his boat nearly went over the falls during the 1937 flood.  On her death bed, Hope and Brother Branham talked about what a mistake it had been for them to not accept the invitations to go out amongst the Pentecostals.  It was a terrible price to pay for his disobedience.
+You probably recall the story of Brother Branham travelling through northern Indiana on his way back from Michigan and stumbling across a large Pentecostal gathering.  At this time, Brother Branham was a Missionary Baptist and was unfamiliar with the Pentecostal people.  Intrigued, he stopped and attended the meeting.  Brother Branham slept in a corn field and attended a service the next morning where he was asked to give an impromptu sermon.  After his sermon, Brother Branham received many invitations to come hold revivals at a number of churches.  
+
+When he returned home excited to go out and preach amongst the Pentecostal people, Brother Branham was rebuffed by his mother-in-law:
+
+>And--and there, friends, is where my sorrows started. I listened to my mother-in-law in the stead of God. He was giving me the opportunity. And there this gift would've been manifested long time ago, if I'd just went ahead and done what God told me to do.
+
+>But instead of that, I didn't want her to be angry, and I didn't want to hurt nobody's feelings. And so I just--just let it go like that. Just walked, I just said, "All right, we won't go."
+
+>And right there, the sorrows started. Immediately after that, my father died. My brother was killed a few nights later from that. I almost lost my own... I lost my father, my brother, my wife, my baby, and my sister-in-law, and almost my own life within about six month's time. And just started going down. My church, pretty near everything went down, down, down. Hope taken sick.
+
+> _Life Story_, Phoenix, AZ April 15, 1951
+
+When Hope was on her death bed, Hope and Brother Branham talked about what a mistake it had been for them to not accept the invitations to go out amongst the Pentecostals.  It was a terrible price to pay for his disobedience.  
 
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
@@ -40,7 +52,7 @@ And on my road back home, going back home, I come through Mishawaka. And I looke
 It was at a church house. And I stops and goes in. Come to find out, it was a convention where there was a group of the Pentecostal people, was holding a convention over there. And they had to hold it in the north, because of the race conditions they couldn't hold it, and it was a international convention. They was holding it in a big tabernacle at Mishawaka.
 </p>
 
-<p>So I--I never seen the Pentecost before*, so I thought, "Well, believe I'll go and see what it looks like." So I walked in, and there they was all clapping their hands \[Brother Branham claps his hands--Ed.\] like that, and screaming and singing. I thought, "What manners. Tsk, tsk, tsk, tsk, tsk, never seen anything like that in my life.   What are they all talking about?"</p>
+<p>So I--<strong>I never seen the Pentecost before</strong>, so I thought, "Well, believe I'll go and see what it looks like." So I walked in, and there they was all clapping their hands [Brother Branham claps his hands--Ed.] like that, and screaming and singing. I thought, "What manners. Tsk, tsk, tsk, tsk, tsk, never seen anything like that in my life.   What are they all talking about?"</p>
 
 <p>And here was a colored man up there, and he was singing. And he was singing:</p>
 
@@ -185,11 +197,12 @@ Away it went, and the first thing you know everybody on their feet, "then he cri
  <p>
  First thing you know, up come a great big fellow from Texas, a big ten-gallon hat on and cowboy boots, walked up, said, "Say, are you a evangelist?"
 </p>
-<p>I said, "Yes, sir."</p>
-<p>He said, "How about coming down, Texas, and holding me a revival?"</p>
-<p>I said, "Well, are you a preacher?"</p>
-<p>Said, "Sure." I looked at them big high-heel boots, and that great big cowboy hat, I thought, "Maybe it doesn't make any difference the way..."</p>
-
+<p>
+I said, "Yes, sir."<br />
+He said, "How about coming down, Texas, and holding me a revival?"<br />
+I said, "Well, are you a preacher?"<br />
+Said, "Sure." I looked at them big high-heel boots, and that great big cowboy hat, I thought, "Maybe it doesn't make any difference the way..."<br />
+</p>
 <p>
 Next thing, a fellow walked up had on little golf pants like this. He said, "Say," he said, "I'm from Florida." He said, "I have so-many saints down there at a church, or somewhere." Said, "I'd like for you to hold..." <br />
 I said, "Are you a preacher?"<br />
@@ -378,7 +391,7 @@ And I walked back and forth, finally come the hour. I was out in the car and I h
 </p> 
 <p>
 And when I did (I will never forget it.), little Dr. Adair, a fine little fellow, and he come walking down the room. We fished together; we hunt together; we slept together; we were bosom buddies. And he's--he's a specialist. And he come walking down the hall with his head down. And he happened to look, standing down there, and he seen me, and tears rolled down his cheeks, and he ducked off into a room.
-I run down the hall real quick, and pulled open the door; he put his arm around me, he said, "Billy, boy," patting me. \[Brother Branham pats something--Ed.\]
+I run down the hall real quick, and pulled open the door; he put his arm around me, he said, "Billy, boy," patting me. [Brother Branham pats something--Ed.]
 I said, "What is it, doc?"
 He said, "I just can't tell you, Bill." Said, "Just go ahead out and let the nurse tell you."
 I said, "Come on, doctor. What is it?"
@@ -515,9 +528,15 @@ Someday they will ring those golden bells for you and me.
   </div>
 </div>
 
+ While performing our research on the [Municipal Bridge Vision](/2013/02/14/Why-Is-The-Bridge-Vision-Important/), we ran across Hope's obituary in the Jeffersonville Evening News:
  
-
-
-
-
-
+ <img src="/assets/Hope/Obituary.jpg" alt="Hope's Obituary" class="img img-polaroid" />
+ 
+ 
+ We were quite shocked when we saw this line in her obituary:
+ 
+>"She belonged to the Pentecostal Tabernacle, of which her husband is pastor."
+ 
+ Brother Branham's error was being introduced to Pentecostal "Holy Rollers" in Mishawaka and refusing to be associated with them and go out amongst them.  He said he was a Missionary Baptist, and knew nothing about Pentecost.  Why then, was his church named the Pentecostal Tabernacle before Hope died? 
+ 
+ We couldn't reconcile this with Brother Branham's life story or with the stories we'd been told by other believers.  We started to get the impression that perhaps Brother Branham was a Pentecostal prior to Hope's death in 1937. We began to look at this topic further and try to determine through primary reference sources when Brother Branham was introduced to Pentecostal people and when his church was named the Pentecostal Tabernacle.  We've decided to share what we've discovered in our upcoming posts.

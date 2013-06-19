@@ -2,7 +2,7 @@
 layout: post
 title: "And There, Friends, Is Where My Sorrow Started"
 tagline: ""
-description: "What we learned from Hope's Obituary"
+description: "What we learned from Hope's obituary"
 category : 
 tags : [pentecost, Hope, tabernacle]
 ---

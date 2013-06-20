@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "What Did Roy Davis Teach?"
+title: "When Was The Tabernacle Built?"
 tagline: ""
-description: "What did Roy Davis speak about while pastoring the First Pentecostal Baptist Church?"
+description: "When was Brother Branham's church on the corner of 8th and Penn St built?"
 category : 
 tags : [pentecost, Hope, tabernacle]
 ---
-_This is the fourth post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
+_This is the sixth post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
 
 So far in this series we've discussed Brother Branham being the [pastor of the Pentecostal Tabernacle](/2013/06/19/Where-My-Sorrow-Started/) at the time of Hope's death, evidence that Brother Branham [preached at Pentecostal churches](/2013/06/20/Preaching-At-Pentecostal-Churches/) prior to Hope's death, and provided documented proof that [Roy Davis' church was the First Pentecostal Baptist](/2013/06/21/Roy-Davis/), not a Missionary Baptist church.  In this post, we'll try to gain some insight into the First Pentecostal Baptist church based on information that appeared in his advertisements in the Jeffersonville Evening News.
 

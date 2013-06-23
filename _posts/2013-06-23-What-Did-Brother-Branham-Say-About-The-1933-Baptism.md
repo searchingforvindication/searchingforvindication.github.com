@@ -2,26 +2,27 @@
 layout: post
 title: "What Brother Branham Said About The 1933 Baptism"
 tagline: ""
-description: "In this post, we discuss the 1933 Ohio River Baptism"
+description: "In this post, we discuss the 1933 Ohio River Baptism."
 category : 
 tags : [pentecost, Hope, tabernacle,baptism,1933]
 ---
 _This is the fifth post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
 
-In our last two posts, we discussed Roy Davis' church, The First Pentecostal Baptist, and provided some information on what was taught there based on newspaper advertisements.  Now we'd like to turn our attention to the beginning of Brother Branham's ministry.  One of the earliest events in his ministry was the 1933 baptism service and he refers to this event many times over the years.  This event occurred early in his ministry, and the retellings quoted below occurred many years later.  One would naturally expect some slight variation in his retellings as is our normal human nature.  You can clearly see from the quotes below that Brother Branham was consistent about the thematic elements of this event.  We can draw the following conclusions about the 1933 Baptism based on Brother Branham’s account:
+In our last two posts, we discussed [Roy Davis' church](/2013/06/21/Roy-Davis/) and provided some information on [what was taught there](/2013/06/22/The-Common-Peoples-Church/).  Now we'd like to turn our attention to the beginning of Brother Branham's ministry.  One of the earliest events in his ministry was the 1933 baptism service which he refers to many times over the years.  For your own study, we've included all of the accounts below that we've been able to locate from Brother Branham regarding the 1933 baptism. If you feel we've missed any quotes related to this topic, please let us know by posting a comment at the end of this post.  
 
- * The event occurred in 1933 when Brother Branham was baptizing converts in the Ohio river at the foot of Spring Street, most likely in June.
+As you read through these quotes, look for the following key points that Brother Branham makes throughout his various accounts of this event:
+
+ * The event occurred in 1933 when Brother Branham was baptizing converts in the Ohio river at the foot of Spring Street.
+ * Different dates are given for the event, but he most consistently states this occured sometime in June, 1933.
  * The event occurred before Brother Branham and Hope were married in June, 1934.
- * This was his first revival.
- * Roy Davis was still his pastor when this revival was held.
- * There were a lot of people in attendance; between several hundred to thousands.
+ * This was his first revival, or first group of converts.
+ * Roy Davis was still his pastor when this revival was held.  He had just recently been ordained as a Baptist minister.
+ * There were a lot of people in attendance; between several hundred to thousands.  Brother Branham baptized around 500 people.
  * As he was baptizing, he heard a voice tell him to "look up".
  * A light appeared and a voice spoke something to the effect of "As John the Baptist was sent forth to forerun the first coming of Christ, you have the Message that'll now forerun the second Coming of Christ."
- * The Louisville Herald, or Herald Post ran a front page story with a headline similar to "A mystery Light hangs over a local Baptist minister while baptizing at the foot of Spring Street in Jeffersonville, Indiana."
+ * All the local papers packed the article of it.  The Louisville Herald, or Herald Post ran a front page story with a headline similar to "A mystery Light hangs over a local Baptist minister while baptizing at the foot of Spring Street in Jeffersonville, Indiana."
  * The associated press picked up the story and it was carried in papers around the US and Canada.
- 
- For your own study, we've included all of the accounts below that we've been able to locate from Brother Branham regarding the 1933 baptism. If you feel we've missed any quotes related to this topic, please let us know by posting a comment at the end of this post.  
- 
+  
  Here are the quotes:
 
 **From _Gifts And Callings Are Without Repentance_ preached in Carlsbad, New Mexico in March, 1950:**
@@ -39,7 +40,6 @@ In our last two posts, we discussed Roy Davis' church, The First Pentecostal Bap
 >I've often wondered if that wasn't the Angel that was on the waters (See?) in Bethesda, you know. Went away...
 
 >And papers carried a big article, "Mysterious Star Appears Over Minister While Baptizing." And on down, It kept coming.
-
 
 **From _Believe Ye That I Am Able To Do This_ preached in Cleveland, Ohio on August 20, 1950:**
 >When I was baptizing hundreds down at the Ohio River at the foot of Spring Street in Jeffersonville, where thousands were blacked on the bank... At right at two o'clock in the afternoon, I was baptizing the seventeenth person. I started to pray, and thousands standing there looking. And down from the heavens came that green, whirling down like a big star in the distance. When It got close, It was that Light, a Pillar of Fire.
@@ -295,5 +295,3 @@ And a few paragraph's later in the same message:
 >Then, consider now, I ask you at this hour, you people here of Jeffersonville. In 1933, the supernatural Light that fell down yonder on the  river , that day when I was baptizing five hundred in the Name of Jesus Christ, as about a twenty-year-old boy. What did It say, Jeffersonville? What was It at the foot of Spring Street there, when the Courier Journal, I believe it was the Louisville Herald, packed the article of It? It went plumb across the Associated Press, plumb into Canada. Doctor Lee Vayle cut it out of the paper, way up in Canada, in 1933.
 
 >When I was  baptizing  my seventeenth person, under this Witness; and you know the rest of the story. And when I was standing there,  baptizing  the seventeenth person, a Light come down from Heaven, shining down above there, like a Star falling from the Heaven. A Voice said, "As John the Baptist was sent to forerun the first coming of Christ, your Message shall forerun His second Coming, into all the world." This day this Scripture is fulfilled.
-
-

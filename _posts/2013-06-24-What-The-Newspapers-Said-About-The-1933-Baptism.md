@@ -4,7 +4,7 @@ title: "What The Newspapers Said About the 1933 Baptism"
 tagline: ""
 description: "In this post, we review newspaper coverage of the 1933 Ohio River Baptism"
 category : 
-tags : [pentecost, Hope, tabernacle,baptism,1933]
+tags : [pentecost, Hope, tabernacle, baptism, 1933]
 ---
 _This is the sixth post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
 

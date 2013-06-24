@@ -13,7 +13,7 @@ In our last two posts, we discussed [Roy Davis' church](/2013/06/21/Roy-Davis/) 
 As you read through these quotes, look for the following key points that Brother Branham makes throughout his various accounts of this event:
 
  * The event occurred in 1933 when Brother Branham was baptizing converts in the Ohio river at the foot of Spring Street.
- * Different dates are given for the event, but he most consistently states this occured sometime in June, 1933.
+ * Different dates are given for the event, but he most consistently states this occurred sometime in June, 1933.
  * The event occurred before Brother Branham and Hope were married in June, 1934.
  * This was his first revival, or first group of converts.
  * Roy Davis was still his pastor when this revival was held.  He had just recently been ordained as a Baptist minister.

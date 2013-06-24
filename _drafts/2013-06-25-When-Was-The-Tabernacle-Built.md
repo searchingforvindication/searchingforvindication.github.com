@@ -8,6 +8,12 @@ tags : [pentecost, Hope, tabernacle]
 ---
 _This is the sixth post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
 
+
+Today, the Branham Tabernacle is on the corner of 8th and Penn St.  Brother Branham held his tent meeting on the corner of 8th and Pratt.  This was an unoccupied lot in 1933, but now it's the other end of the Branham Tabernacle's parking lot.
+
+<img src="/assets/ChurchAds/8thAndPratt.jpg" alt="1933 Baptism" class="img img-polaroid clearfix" />
+
+
 So far in this series we've discussed Brother Branham being the [pastor of the Pentecostal Tabernacle](/2013/06/19/Where-My-Sorrow-Started/) at the time of Hope's death, evidence that Brother Branham [preached at Pentecostal churches](/2013/06/20/Preaching-At-Pentecostal-Churches/) prior to Hope's death, and provided documented proof that [Roy Davis' church was the First Pentecostal Baptist](/2013/06/21/Roy-Davis/), not a Missionary Baptist church.  In this post, we'll try to gain some insight into the First Pentecostal Baptist church based on information that appeared in his advertisements in the Jeffersonville Evening News.
 
 On January 21, 1933, the church advertisement indicated Dr. Davis would be preaching on "Holy Ghost Power".

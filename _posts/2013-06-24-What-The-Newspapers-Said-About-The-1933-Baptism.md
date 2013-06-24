@@ -23,7 +23,7 @@ In our last post, we shared a [long list of quotes](/2013/06/23/What-Did-Brother
 
 Remember, in particular, that Brother Branham was baptizing his first converts as he stated while preaching _The Pillar Of Fire_ in Jonesboro, Arkansas on May 9, 1953:
 
->And He… When I was–I was a young Baptist preacher **baptizing my first converts, five hundred of them down on the river, my first revival…** I had about three thousand attend at the revival. And my education was so poor, till **my girlfriend** read the Bible while I preached. That’s right. It’s not much better tonight. But God’s not known by education. God’s known by faith. God’s not known by knowledge.
+>And He… When I was–I was a young Baptist preacher **baptizing my first converts, five hundred of them down on the river, my first revival…** I had about three thousand attend at the revival. And my education was so poor, till **my girlfriend** read the Bible while I preached. 
 
 #### Upcoming Tent Revival
 

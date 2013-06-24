@@ -58,7 +58,7 @@ As you read through these quotes, look for the following key points that Brother
 >Right back up into the heavens, when people screamed, fainted. What is it? God, getting the Church ready. You don't need no new doctrine. You don't need no new theories. You need real true hearts to Almighty God, to believe on God, and His Son, Christ Jesus. Have fellowship with everybody, all the Christians, by the Holy Spirit. Amen.
 
 **From _The Pillar Of Fire_ preached in Jonesboro, Arkansas preached on May 9, 1953:**
->And He... When I was--I was a young Baptist preacher baptizing my first converts, five hundred of them down on the  river , my first revival... I had about three thousand attend at the revival. And my education was so poor, till my girlfriend read the Bible while I preached. That's right. It's not much better tonight. But God's not known by education. God's known by faith. God's not known by knowledge.
+>And He... When I was--I was a young Baptist preacher baptizing my first converts, five hundred of them down on the  river , my first revival... I had about three thousand attend at the revival. And my education was so poor, till my girlfriend read the Bible while I preached. 
 
 **From _The Angel Of The Covenant_ preached in Phoenix, Arizona on March 1, 1954:**
 >It was seen on the  river  there when I was just a boy,  baptizing  my first group in the Baptist church: Five hundred, one afternoon, at the foot of Spring Street in Jeffersonville. The newspapers packed an article of it: A Mystic Light Appears Over Local Baptist Minister While  Baptizing  At The  River .

@@ -35,7 +35,7 @@ When Brother Branham preached  _A Trial_  in Tucson, Arizona on April 27, 1964 h
 
 >And I had a baptismal service down on the river, on 1933, on the middle of June, about sixteenth or eighteenth of June. And standing out there, it had been so hot, for weeks. Hadn't had no rain for two or three weeks, and the country was burning up, nearly. And there was, I guess, around seven or eight thousand people on the bank. And I walked out in the water, with my seventeenth candidate, to baptize. And when I baptized, started to baptize, I said, "As I baptize thee with water, may the Lord Jesus..."
 
-Notice that Brother Branham indicated that he was the assistant pastor of Roy Davis' church when the church burned down.  This quote places this event in 1933 because his baptism in the Ohio occurred after the church burned in this account.  However, we know from the newspaper advertisements we [shared previously](/2013/06/22/The-Common-Peoples-Church) that Roy Davis was actively advertising his church in 1933 after Brother Branham's tent meeting in June.
+Notice that Brother Branham indicated that he was the assistant pastor of Roy Davis' church when the church burned down.  
 
 This quote from _Taking Sides With Jesus_ preached in Jeffersonville, Indiana on June 1, 1962 also indicates Roy Davis' church burnt and Brother Branham took over the congregation:
 

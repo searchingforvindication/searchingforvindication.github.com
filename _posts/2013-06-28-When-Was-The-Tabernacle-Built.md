@@ -12,7 +12,7 @@ So far in this series we've discussed Brother Branham being the [pastor of the P
 
 Anyone who has visited the Branham Tabernacle over the last several years has probably seen this marker on the side of the building which indicates the building was dedicated in 1933:
 
-<img src="/assets/Tabernacle/Cornerstone.jpg" alt="Marker on the Branham Tabernacle indicating it was dedicated in 1933" class="img img-polaroid" />
+<img src="/assets/Tabernacle/cornerstone.jpg" alt="Marker on the Branham Tabernacle indicating it was dedicated in 1933" class="img img-polaroid" />
 
 Throughout his ministry, Brother Branham states he laid the cornerstone of the tabernacle around March of 1933.  However, in our [previous post](/2013/06/24/What-The-Newspapers-Said-About-The-1933-Baptism) on the 1933 baptism we included quotes from Brother Branham which indicate he was still attending Roy Davis' church when he held his first revival.  This first meeting is when he says he baptized 500 people in the Ohio river at the foot of Spring Street in June of 1933.  
 

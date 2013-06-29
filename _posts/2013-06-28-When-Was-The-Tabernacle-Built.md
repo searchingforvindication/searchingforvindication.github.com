@@ -6,6 +6,7 @@ description: "When was Brother Branham's church on the corner of 8th and Penn St
 category : 
 tags : [pentecost, Hope, tabernacle]
 ---
+
 _This is the seventh post in a multi-part series on when Brother Branham became involved with <a href="/tags.html#pentecost-ref">Pentecostal churches</a>._
 
 So far in this series we've discussed Brother Branham being the [pastor of the Pentecostal Tabernacle](/2013/06/19/Where-My-Sorrow-Started/) at the time of Hope's death, discussed Brother Branham [preaching at Pentecostal churches](/2013/06/20/Preaching-At-Pentecostal-Churches/) prior to Hope's death, provided documented proof that [Roy Davis' church was the First Pentecostal Baptist](/2013/06/21/Roy-Davis/), produced [newspaper advertisements](/2013/06/22/The-Common-Peoples-Church) from Roy Davis' church, and presented newspaper evidence related to [Brother Branham's first tent meeting in 1933](/2013/06/24/What-The-Newspapers-Said-About-The-1933-Baptism).  In this post, we'll begin exploring when Brother Branham's church was built on the corner of 8th and Penn Streets in Jeffersonville.
@@ -17,16 +18,13 @@ Anyone who has visited the Branham Tabernacle over the last several years has pr
 Throughout his ministry, Brother Branham states he laid the cornerstone of the tabernacle around March of 1933.  However, in our [previous post](/2013/06/24/What-The-Newspapers-Said-About-The-1933-Baptism) on the 1933 baptism we included quotes from Brother Branham which indicate he was still attending Roy Davis' church when he held his first revival.  This first meeting is when he says he baptized 500 people in the Ohio river at the foot of Spring Street in June of 1933.  
 
 If you look at a photo of the Branham Tabernacle from the 1930s, it's obvious that this marker was not part of the original construction.  Notice the 1930s image shows the building does not have any brick veneer:
-<!-- /assets/Tabernacle/branham_tabernacle1930s.jpg -->
-<img src="http://www.tucsontabernacle.com/images/stories/wba/places/branhamtab/web1000/026_branham_tabernacleweb1000.jpg" alt="Branham Tabernacle in the 1930s." class="img img-polaroid" />
+<img src="/assets/Tabernacle/branham_tabernacle1930s.jpg" alt="Branham Tabernacle in the 1930s." class="img img-polaroid" />
 
 In the 1950s the building looked very similar to what it did in the 1930s:
-<!-- /assets/Tabernacle/branham_tabernacle1950s.jpg -->
-<img src="http://www.tucsontabernacle.com/images/stories/wba/places/branhamtab/web1000/028_br_tabernacle_in_the_1950sweb1000.jpg" alt="Branham Tabernacle in the 1950s." class="img img-polaroid" />
+<img src="/assets/Tabernacle/branham_tabernacle1950s.jpg" alt="Branham Tabernacle in the 1950s." class="img img-polaroid" />
 
 The tabernacle was remodeled and expanded in the 1960s.  This is the first time we see a brick veneer on the building. 
-<!-- /assets/Tabernacle/branham_tabernacle1960s.jpg -->
-<img src="http://www.tucsontabernacle.com/images/stories/wba/places/branhamtab/web1000/029_br_tabernacle_croppedweb1000.jpg" alt="Branham Tabernacle in the 1960s." class="img img-polaroid" />
+<img src="/assets/Tabernacle/branham_tabernacle1960s.jpg" alt="Branham Tabernacle in the 1960s." class="img img-polaroid" />
 
 Here's what the Branham Tabernacle looks like today:
 <img src="/assets/Tabernacle/branham_tabernacletoday.jpg" alt="Branham Tabernacle today." class="img img-polaroid" />

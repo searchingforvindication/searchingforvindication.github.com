@@ -53,3 +53,15 @@ ul.posts
     background-color: lightgray;
 
 }
+#sidebar 
+{
+    float:right;
+}
+
+@media (max-width: 767px) 
+{
+    #sidebar 
+    {
+        float:none;
+    }
+}

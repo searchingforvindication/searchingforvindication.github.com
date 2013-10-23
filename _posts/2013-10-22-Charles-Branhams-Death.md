@@ -2,7 +2,7 @@
 layout: post
 title: "Charles Branham's Death"
 tagline: ""
-description: "How did Charles Branham die?"
+description: "Charles Branham's Obituary and Death Certificate are presented along with Brother Branham's accounts about his father's death."
 category : 
 tags : [Charles]
 ---

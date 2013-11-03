@@ -1,0 +1,30 @@
+{% comment %}<!--
+The tags_list include is a listing helper for tags.
+This version specifically formats tags for atom feeds.
+Usage:
+  1) assign the 'tags_list' variable to a valid array of tags.
+  2) include JB/atom_tags_list
+  example:
+  	  {% assign tags_list = site.tags %}  
+  	  {% include JB/tags_list %}
+  
+  Notes: 
+    Tags can be either a Hash of tag objects (hashes) or an Array of tag-names (strings).
+    The encapsulating 'if' statement checks whether tags_list is a Hash or Array.
+    site.tags is a Hash while page.tags is an array.
+    
+  This helper can be seen in use at: ../atom.xml
+-->{% endcomment %}
+
+
+{% if tags_list.first[0] == null %}
+  {% for tag in tags_list %} 
+     <category scheme="{{ site.production_url }}{{ site.JB.tags_path }}#" term="{{ tag }}-ref" label="{{ tag }}" />
+  {% endfor %}
+{% else %}
+  {% for tag in tags_list %} 
+     <category scheme="{{ site.production_url }}{{ site.JB.tags_path }}#" term="{{ tag[0] }}-ref" label="{{ tag[0] }}" />
+  {% endfor %}
+{% endif %}
+
+{% assign tags_list = nil %}

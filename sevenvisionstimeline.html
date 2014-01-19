@@ -1,0 +1,27 @@
+---
+layout: widepage
+title: Seven Visions Timeline
+header: Pages
+group: 
+---
+
+
+<div id="wmb-timeline"></div>
+
+<script type="text/javascript" src="/assets/timeline/js/timeline-min.js"></script>
+<script type="text/javascript" src="/assets/timeline/js/storyjs-embed.js"></script>
+<script>
+            $(document).ready(function() {
+		var fullHeight = $(window).height() - 86;
+                createStoryJS({
+                    type:       'timeline',
+                    width:      '100%',
+                    height:     fullHeight,
+                    source:     'https://docs.google.com/spreadsheet/pub?key=0AjR-3BdBK58wdHktLU9FRE1rTkFNRUhfM2k0OHZVUkE&output=html',
+                    font:       'Georgia-Helvetica',
+                    css:        '/assets/timeline/css/timeline.css',
+                    embed_id:   'wmb-timeline'
+                });
+            });
+</script>
+

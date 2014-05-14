@@ -47,7 +47,7 @@ While he may be a very sincere person, his account of the bridge deaths does not
 
 #### Are Men Buried In The Piers?
 
-Mr. Vissing indicates in his personal testimony that his grandmother, Maud, and a woman named Dorothy Phillips told him that men were buried alive in the concrete in one of the bridge piers.  As we discussed in our previous articles on the [construction of the bridge](/2013/02/19/Background-On-Municipal-Bridge-And-Its-Construction/), a new construction technique was used to erect the bridge and it's construction was heavily documented in the newspapers and in engineering reports.  The [engineering report](/2013/02/24/The-Modjeski-And-Masters-Report-Part-2/) includes concrete strength standards and detailed test results are included in Appendix E of the report.  These test results indicate that the strength of the concrete exceeded the requirements of the design.  Having 16 men buried in the concrete would signicantly reduce the strength of the piers.  A quick google search will yield a lot of examples of urban legends about construction workers being buried in bridges and dams.  These have been thoroughly debunked because the presence of decomposing bodies would significantly weaken the concrete and affect the integrity of the structures in question.
+Mr. Vissing indicates in his personal testimony that his grandmother, Maud, and a woman named Dorothy Phillips told him that men were buried alive in the concrete in one of the bridge piers.  As we discussed in our previous articles on the [construction of the bridge](/2013/02/19/Background-On-Municipal-Bridge-And-Its-Construction/), a new construction technique was used to erect the bridge and it's construction was heavily documented in the newspapers and in engineering reports.  The [engineering report](/2013/02/24/The-Modjeski-And-Masters-Report-Part-2/) includes concrete strength standards and detailed test results are included in Appendix E of the report.  These test results indicate that the strength of the concrete exceeded the requirements of the design.  Having 16 men buried in the concrete would significantly reduce the strength of the piers.  A quick google search will yield a lot of examples of urban legends about construction workers being buried in bridges and dams.  These have been thoroughly debunked because the presence of decomposing bodies would significantly weaken the concrete and affect the integrity of the structures in question.
 
 #### Is the Vissing Testimony a Confused Story?
 
@@ -61,9 +61,9 @@ Over the years Voice of God Recordings has underscored the importance of only "s
 
 Mr. Vissing's personal accounts of his family's relationship with Brother Branham appear to be very special to him.  While Mr. Vissing may be very sincere, his secondhand testimony regarding the Municipal Bridge vision does not agree with recorded history.  Mr. Vissing is likely not aware of the multitude of research that has been conducted on this topic.  As a result, we chose not to publish any response to the circulation of his original email.  
 
-However, what's very troubling to us is Voice of God Recordings' propogation of this video.  
+However, what's very troubling to us is Voice of God Recordings' propagation of this video.  
 
-In [Catch The Vision, Volume 2](http://branham.org/content/ctv/CTV2012_02_UPDATE/CTV2012_02_UPDATE.pdf#zoom=100), Voice of God Recordings first addressed the constroversy surrounding the municipal bridge vision.  In an article on page two of this publication, they argue that the only evidence they need to support the bridge vision is Brother Branham's own words: 
+In [Catch The Vision, Volume 2](http://branham.org/content/ctv/CTV2012_02_UPDATE/CTV2012_02_UPDATE.pdf#zoom=100), Voice of God Recordings first addressed the controversy surrounding the municipal bridge vision.  In an article on page two of this publication, they argue that the only evidence they need to support the bridge vision is Brother Branham's own words:
 
 >Contrary to the skeptics’ way of thinking, a lack of evidence is not evidence. Instead of saying they have no evidence, they should say they have no faith. Hebrews 11:1 says, “Faith is the evidence of things not seen.”  So for the people who are looking for concrete evidence, there you have it.
 
@@ -71,7 +71,7 @@ Later in the article they state:
 
 >The FACT is that Brother Branham saw a vision of 16 men falling to their deaths from the Municipal Bridge, and THEY DID. How do we know? For the same reason we know that there was a king David: Because the prophet said so; that is where our faith rests. 
 
-If this is their position, then why was there any need to publish Mr. Vissing's testimony?  It appears that their position on this topic has changed.  Previously, having any evidence didn't matter.  Now, they propogate this testimony as supporting evidence, but it's not a first hand account, and it doesn't agree with recorded history.  What's truly perplexing is by publishing this video, Voice of God Recordings is publicly supporting a version of the bridge vision that does not agree with Brother Branham's own words recorded on tape.
+If this is their position, then why was there any need to publish Mr. Vissing's testimony?  It appears that their position on this topic has changed.  Previously, having any evidence didn't matter.  Now, they propagate this testimony as supporting evidence, but it's not a first hand account, and it doesn't agree with recorded history.  What's truly perplexing is by publishing this video, Voice of God Recordings is publicly supporting a version of the bridge vision that does not agree with Brother Branham's own words recorded on tape.
 
 >**Listen. May I say this right quick now? Even the visions that God gives here at the place, it's so misunderstood. That's the reason you hear me on the tapes say, "Say what the tapes say. Say what the visions say."** (63-0317M)
 

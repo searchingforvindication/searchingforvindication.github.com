@@ -38,9 +38,12 @@ On May 13, 2014 Voice of God Recordings published a video interview with Mr. Vis
 
 #### Problems with Mr. Vissing's Account
 
-There's a couple of problems with Mr. Vissings' email and the related stories that have been floating around.  First of all, Mr. Vissing does not claim in his email to be a first hand witness to these events, but rather, is communicating something that had been told to him second or third hand.  While he may be a very sincere person, his account of the bridge deaths does not agree with recorded history.  Should a reader take Mr. Vissing's secondhand account of events passed down multiple generations over the multitude of information available from well documented first hand sources?  
+There's a couple of problems with Mr. Vissings' email and the related stories that have been floating around.  First of all, Mr. Vissing does not claim in his email to be a first hand witness to these events, but rather, is communicating something that had been told to him second or third hand.  
 
 Mr. Vissing asserts that during the period that the bridge was under construction any accidents involving construction of the bridge would not have been widely reported.  We've already [previously debunked this statement](/2013/02/22/Bridge-Deaths-Would-Not-Be-Reported/) by demonstrating that previous bridge construction accidents in Jeffersonville made front page news in papers across the country all the way back in 1893.  Further, [two accidents](/2013/02/25/Documented-Bridge-Deaths/) were reported during the construction of the Municipal Bridge.  Both were on the front page of the local paper.  Accepting Mr. Vissing's account would also require you to ignore the archives at the [Indiana State Library](/2013/02/21/Were-Archives-Destroyed-In-The-1937-Flood/), the [official engineer's report on the construction of the bridge](/2013/02/23/The-Modjeski-And-Masters-Report/),  and the very detailed logs from the [Coast Guard Life Saving Station](/2013/03/09/Coast-Guard-Life-Saving-Station/) just a few hundred yards away from the construction site. 
+
+While he may be a very sincere person, his account of the bridge deaths does not agree with recorded history.  Should a reader take Mr. Vissing's secondhand account of events passed down multiple generations over the multitude of information available from well documented first hand sources?  
+
 
 #### Are Men Buried In The Piers?
 

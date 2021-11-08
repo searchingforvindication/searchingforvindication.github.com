@@ -7,10 +7,8 @@ group:
 
 
 <div id="wmb-timeline"></div>
-
-<script type="text/javascript" src="/assets/timeline/js/timeline-min.js"></script>
-<script type="text/javascript" src="/assets/timeline/js/storyjs-embed.js"></script>
-<script>
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+<script type="text/javascript">
             $(document).ready(function() {
 		var fullHeight = $(window).height() - 86;
                 createStoryJS({
@@ -24,4 +22,16 @@ group:
                 });
             });
 </script>
+
+<script type="text/javascript">
+            // The TL.Timeline constructor takes at least two arguments:
+            // the id of the Timeline container (no '#'), and
+            // the URL to your JSON data file or Google spreadsheet.
+            // the id must refer to an element "above" this code,
+            // and the element must have CSS styling to give it width and height
+            // optionally, a third argument with configuration options can be passed.
+            // See below for more about options.
+            timeline = new TL.Timeline('wmb-timeline',
+            'https://docs.google.com/spreadsheets/d/1AJIZBtTq_IyGDBPBMgL0aATQeG8i8yZt6mFkWVCwXaA/edit#gid=0');
+        </script>
 

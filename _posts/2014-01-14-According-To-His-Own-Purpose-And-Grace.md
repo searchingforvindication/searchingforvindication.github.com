@@ -35,7 +35,7 @@ However, recent events have caused us to re-evaluate remaining anonymous.   With
 
 In the last year many thousands of people have visited and read Searching For Vindication from 119 countries.  Hundreds of people (that we know of) have left the message in the past year and have moved on to a pure unadulterated faith in Jesus Christ based on the simplicity of the gospel.  
 
-This website is just one resource that’s helped those who are examining the message.  There are many more: Peter Duyzer's [_Legend of the Fall_](http://wmbranham.net/), John Kennah's [Examining the Message of William Branham](http://people.delphiforums.com/JohnK63/home.htm), John Collins' [Seek The Truth] (http://seekyethetruth.com/), Jeremy and Rod Bergen's [Believe The Sign](http://www.believethesign.com), Nathan Rivera's [A Logical Refutation of Branham's Message](http://branhamrefutation.blogspot.com/), James Rozak's [Morning Mercy](http://morningmercy.com), and countless others who worked to personally reach out to family and friends.  
+This website is just one resource that’s helped those who are examining the message.  There are many more: Peter Duyzer's [_Legend of the Fall_](http://wmbranham.net/), John Kennah's [Examining the Message of William Branham](http://people.delphiforums.com/JohnK63/home.htm), John Collins' [Seek The Truth](http://seekyethetruth.com/), Jeremy and Rod Bergen's [Believe The Sign](http://www.believethesign.com), Nathan Rivera's [A Logical Refutation of Branham's Message](http://branhamrefutation.blogspot.com/), James Rozak's [Morning Mercy](http://morningmercy.com), and countless others who worked to personally reach out to family and friends.  
 
 #### You Are Not Alone
 
@@ -54,10 +54,6 @@ The odds are high that others in your church are also questioning and seeking an
 If there’s anything that we can do to assist you in your walk, or you would just like some help getting connected with others who have left the message, please feel free to email us at [searching4vindication@gmail.com](searching4vindication@gmail.com)
 
 May God Richly bless you.
-
-Sincerely,
-
-_Joe and Anna Barone_
 
 <div class="alert alert-info">
    Read our posts on the <a href="/bridge.html">Municipal Bridge Vision.</a>  
